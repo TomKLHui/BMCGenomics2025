@@ -1,0 +1,8 @@
+NAME	term
+GO:0004497	monooxygenase activity
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:0004559	alpha-mannosidase activity
+GO:0005975	carbohydrate metabolic process
+GO:0006013	mannose metabolic process
+GO:0016491	oxidoreductase activity
+GO:0016787	hydrolase activity
